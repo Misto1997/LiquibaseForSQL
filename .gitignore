@@ -19,6 +19,7 @@ mvnw/
 mvnw.cmd/
 mvnw
 mvnw.cmd
+.DS_Store
 
 ### IntelliJ IDEA ###
 .idea
