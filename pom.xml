@@ -41,7 +41,7 @@
                     <driver>com.mysql.cj.jdbc.Driver</driver>
                     <defaultSchemaName>school</defaultSchemaName>
                     <url>jdbc:mysql://localhost:3306</url>
-                    <username>root</username>
+                    <username></username>
                     <password></password>
                     <promptOnNonLocalDatabase>false</promptOnNonLocalDatabase>
                     <changeLogFile>src/main/resources/liquibase_changelog.xml</changeLogFile>
